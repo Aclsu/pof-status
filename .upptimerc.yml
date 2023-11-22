@@ -1,31 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: Aclsu # Your GitHub organization or username, where this repository lives
+repo: ipsys-monitor # The name of this repository
+user-agent: Aclsu
+assignees: 
+  - Aclsu
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Phillips Ormonde Fitzpatrick - IPSys
+    url: https://ipsys.pof.com.au
+    icon: https://ipsys.pof.com.au/dist/images/favicon.ico
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+  - name: Phillips Ormonde Fitzpatrick - Website
+    url: https://www.pof.com.au
+    icon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+  robotsText: "User-agent: * \n Disallow: /"
+  #cname: status.pof.com.au
+  baseUrl: /pof-status
+  theme: ocean
+  favicon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
+  logoUrl: https://www.pof.com.au/app/themes/POF/dist/images/POF-Logo-Reverse.svg
+  name: Phillips Ormonde Fitzpatrick Status
+  introTitle: Phillips Ormonde Fitzpatrick uptime monitor and status page.
+  introMessage: This status page uses **real-time** data to display the current and historical status of Phillips Ormonde Fitzpatrick applications.
+  i18n:
+    footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
