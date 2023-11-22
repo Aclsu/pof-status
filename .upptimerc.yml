@@ -38,11 +38,10 @@ status-website:
   favicon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
   logoUrl: https://www.pof.com.au/app/themes/POF/dist/images/POF-Logo-Reverse.svg
   name: Phillips Ormonde Fitzpatrick Status
-  introTitle: Phillips Ormonde Fitzpatrick uptime monitor and status page.
+  introTitle: Phillips Ormonde Fitzpatrick Applicatiom Status
   introMessage: This status page uses **real-time** data to display the current and historical status of Phillips Ormonde Fitzpatrick applications.
-
-i18n:
-  footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
+  i18n:
+    footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
