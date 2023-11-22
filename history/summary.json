@@ -34,5 +34,23 @@
     "timeMonth": 1086,
     "timeYear": 1086,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "IP Organisers - Website",
+    "url": "https://www.iporganisers.com.au",
+    "icon": "https://cdn.iporganisers.com.au/app/themes/iporganisers/assets/img/favicon.ico",
+    "slug": "ip-organisers-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]

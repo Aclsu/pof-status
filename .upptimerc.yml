@@ -19,6 +19,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+  - name: IP Organisers - Website
+    url: https://www.iporganisers.com.au
+    icon: https://cdn.iporganisers.com.au/app/themes/iporganisers/assets/img/favicon.ico
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
 status-website:
   metaTags:
     - name: "robots"
@@ -26,7 +33,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   #cname: status.pof.com.au
   baseUrl: /pof-status
-  theme: ocean
+  theme: night
   favicon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
   logoUrl: https://www.pof.com.au/app/themes/POF/dist/images/POF-Logo-Reverse.svg
   name: Phillips Ormonde Fitzpatrick Status
