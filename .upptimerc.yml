@@ -4,7 +4,6 @@ repo: pof-status
 user-agent: Aclsu
 assignees: 
   - Aclsu
-  
 sites:
   - name: Phillips Ormonde Fitzpatrick - IPSys
     url: https://ipsys.pof.com.au
@@ -27,7 +26,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-
 status-website:
   metaTags:
     - name: "robots"
@@ -37,11 +35,20 @@ status-website:
   theme: night
   favicon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
   logoUrl: https://www.pof.com.au/app/themes/POF/dist/images/POF-Logo-Reverse.svg
-  name: Phillips Ormonde Fitzpatrick Status
-  introTitle: Phillips Ormonde Fitzpatrick Applicatiom Status
+  name: Application Status
+  introTitle: 
   introMessage: This status page uses **real-time** data to display the current and historical status of Phillips Ormonde Fitzpatrick applications.
-  i18n:
-    footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
+  navbar:
+    - title: Status
+      href: /
+    - title: IPSys
+      href: https://ipsys.pof.com.au/
+    - title: POF
+      href: https://pof.com.au/
+    - title: IPO
+      href: https://iporganisers.com.au/
+i18n:
+  footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
