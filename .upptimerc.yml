@@ -44,9 +44,9 @@ status-website:
     - title: IPSys
       href: https://ipsys.pof.com.au/
     - title: POF
-      href: https://pof.com.au/
+      href: https://www.pof.com.au/
     - title: IPO
-      href: https://iporganisers.com.au/
+      href: https://www.iporganisers.com.au/
 i18n:
   footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
 
