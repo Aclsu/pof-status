@@ -22,10 +22,10 @@
     "url": "https://www.pof.com.au",
     "icon": "https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico",
     "slug": "phillips-ormonde-fitzpatrick-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1330,
@@ -33,14 +33,16 @@
     "timeWeek": 1274,
     "timeMonth": 1338,
     "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 1
+    }
   },
   {
     "name": "IP Organisers - Website",
     "url": "https://www.iporganisers.com.au",
     "icon": "https://cdn.iporganisers.com.au/app/themes/iporganisers/assets/img/favicon.ico",
     "slug": "ip-organisers-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 1542,
     "timeMonth": 1319,
     "timeYear": 1238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   }
 ]
