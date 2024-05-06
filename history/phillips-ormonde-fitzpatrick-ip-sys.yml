@@ -1,7 +1,7 @@
 url: https://ipsys.pof.com.au
-status: up
+status: degraded
 code: 200
-responseTime: 1798
-lastUpdated: 2024-05-05T23:13:06.137Z
+responseTime: 16904
+lastUpdated: 2024-05-06T08:48:17.186Z
 startTime: 2023-11-22T02:49:50.235Z
 generator: Upptime <https://github.com/upptime/upptime>
