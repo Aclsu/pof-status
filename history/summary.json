@@ -5,18 +5,19 @@
     "icon": "https://ipsys.pof.com.au/dist/images/favicon.ico",
     "slug": "phillips-ormonde-fitzpatrick-ip-sys",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.62%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.54%",
     "time": 2006,
     "timeDay": 2538,
     "timeWeek": 1684,
-    "timeMonth": 1542,
-    "timeYear": 2099,
+    "timeMonth": 1507,
+    "timeYear": 2100,
     "dailyMinutesDown": {
-      "2025-02-28": 0,
+      "2025-03-01": 71,
+      "2025-02-28": 33,
       "2025-01-20": 22,
       "2025-01-06": 23,
       "2024-12-23": 23,
@@ -30,8 +31,7 @@
       "2024-06-17": 16,
       "2024-03-22": 176,
       "2024-03-05": 212,
-      "2024-03-02": 387,
-      "2024-03-01": 46
+      "2024-03-02": 387
     }
   },
   {
@@ -48,8 +48,8 @@
     "time": 1333,
     "timeDay": 1391,
     "timeWeek": 1250,
-    "timeMonth": 1275,
-    "timeYear": 1332,
+    "timeMonth": 1246,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2024-12-10": 21,
       "2024-09-11": 28,
