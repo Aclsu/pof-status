@@ -49,6 +49,7 @@ status-website:
       href: https://www.iporganisers.com.au/
 i18n:
   footer: For all issues or queries please [contact us here](mailto://info@pof.com.au?subject=POF+Status+Query).
+  locale: en-AU
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
