@@ -5,7 +5,7 @@ user-agent: Aclsu
 assignees: 
   - Aclsu
 sites:
-  - name: Phillips Ormonde Fitzpatrick - IPSYS
+  - name: Phillips Ormonde Fitzpatrick - IPSys
     url: https://ipsys.pof.com.au
     icon: https://ipsys.pof.com.au/dist/images/favicon.ico
     maxResponseTime: 5000
