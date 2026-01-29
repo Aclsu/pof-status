@@ -18,14 +18,14 @@ sites:
     __dangerous__insecure: true
   - name: Phillips Ormonde Fitzpatrick - Website
     url: https://www.pof.com.au
-    icon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
+    icon: https://www.pof.com.au/app/themes/POF/dist/images/favicon.ico
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
   - name: IP Organisers - Website
     url: https://www.iporganisers.com.au
-    icon: https://cdn.iporganisers.com.au/app/themes/iporganisers/assets/img/favicon.ico
+    icon: https://www.iporganisers.com.au/app/themes/iporganisers/assets/img/favicon.ico
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
