@@ -37,7 +37,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   cname: status.pof.com.au
   theme: night
-  favicon: https://cdn.pof.com.au/app/themes/POF/dist/images/favicon.ico
+  favicon: https://www.pof.com.au/app/themes/POF/dist/images/favicon.ico
   logoUrl: https://www.pof.com.au/app/themes/POF/dist/images/POF-Logo-Reverse.svg
   name: Application Status
   introTitle: 
