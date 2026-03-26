@@ -5,19 +5,17 @@
     "icon": "https://ipsys.pof.com.au/dist/images/favicon.ico",
     "slug": "phillips-ormonde-fitzpatrick-ipsys",
     "status": "down",
-    "uptime": "1.10%",
-    "uptimeDay": "1.10%",
-    "uptimeWeek": "1.10%",
-    "uptimeMonth": "1.10%",
-    "uptimeYear": "1.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 901,
     "timeDay": 782,
     "timeWeek": 782,
     "timeMonth": 782,
     "timeYear": 901,
-    "dailyMinutesDown": {
-      "2026-03-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Phillips Ormonde Fitzpatrick - IPSys",
@@ -57,7 +55,7 @@
     "slug": "phillips-ormonde-fitzpatrick-website",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.45%",
+    "uptimeDay": "99.43%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.33%",
