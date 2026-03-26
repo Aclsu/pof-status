@@ -6,8 +6,8 @@ assignees:
   - Aclsu
 sites:
   - name: Phillips Ormonde Fitzpatrick - IPSYS
-    url: https://ipsys.com.au
-    icon: https://ipsys.com.au/static/favicon.ico
+    url: https://ipsys.com.au/videos/
+    icon: https://ipsys.pof.com.au/dist/images/favicon.ico
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -17,7 +17,7 @@ sites:
     # TLS negotiation and verification.
     __dangerous__insecure: true
   - name: Phillips Ormonde Fitzpatrick - IPSys
-    url: https://ipsys.pof.com.au
+    url: https://ipsys.pof.com.au/
     icon: https://ipsys.pof.com.au/dist/images/favicon.ico
     maxResponseTime: 5000
     expectedStatusCodes:
