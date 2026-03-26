@@ -56,6 +56,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: IPSYS
+      href: https://ipsys.com.au/
     - title: IPSys
       href: https://ipsys.pof.com.au/
     - title: POF
