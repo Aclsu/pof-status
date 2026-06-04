@@ -1,7 +1,7 @@
 url: https://ipsys.pof.com.au/
-status: down
+status: degraded
 code: 401
-responseTime: 2898
-lastUpdated: 2026-06-04T01:41:44.677Z
+responseTime: 8293
+lastUpdated: 2026-06-04T20:19:21.960Z
 startTime: 2026-01-29T23:14:37.506Z
 generator: Upptime <https://github.com/upptime/upptime>
