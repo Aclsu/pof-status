@@ -1,7 +1,7 @@
 url: https://www.pof.com.au
-status: degraded
-code: 522
-responseTime: 19813
-lastUpdated: 2026-07-28T18:25:15.522Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2026-07-28T19:59:07.782Z
 startTime: 2023-11-22T02:49:52.420Z
 generator: Upptime <https://github.com/upptime/upptime>
